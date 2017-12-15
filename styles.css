@@ -1,0 +1,16 @@
+table {
+  table-layout: fixed;
+  text-align: center;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: #4fc947;
+}
+
+#answer {
+  padding: 10px;
+}
+
+.cell {
+  border: 1px solid green;
+  padding: 10px;
+}
